@@ -87,21 +87,15 @@ Este código está basado en los ejemplos de Arduino que se hicieron en la [clas
 
 Primero que todo declaramos el archivo adjunto [notas.h](https://github.com/montoyamoraga/aud5i022-2022-1/blob/main/clases/clase-07/ej_01_melodia/notas.h) que define la frecuencia de cada nota. Despues de definir eso, declaramos cada melodia con su duración, el multiplicador de duración de las notas en general, el multiplicador de pausa que utiliza el comando "float". Despues se declaro el pin del parlante que es el pin digital 11 y los 3 botones que son el pin 7, 6, 5 respectivamente y por último se declara el estado de cada botón.
 
-En setup solo usamos "Serial.begin(9600)" y en el loop usamos "digitalRead" en cada botón
-
-```cpp
-void setup()
-```
+En setup solo usamos "Serial.begin(9600)" y en el loop usamos "digitalRead" en cada botón, con el comando "if" programamos cada botón para que toque una meldodía diferente.
 
 ## conclusiones
 
 en este proyecto tuvimos los siguientes aprendizajes: 
 
-* botón pulsador
-* circuito para 
+* Mezclar dos codigos diferentes.
+* Buscar codigos de otras personas para usarlos de referencias en nuestro proyectos.
+* Nos familiarizamos más con github.
+* Aprendimos a colocar una melodía diferente para cada botón.
 
-lo más difícil de este proyecto fue bla.
-
-cometimos los siguientes errores durante el armado del circuito y en el código, y los solucionamos así y este error no lo supimos resolver.
-
-este proyecto lo vemos como la base para lograr bla, nos hace pensar en bla, y nos gustaría expandirlo para 10 botones y mil luces y diez arduinos conectados por wifi.
+Lo más dificil de este proyecto fue hacer el codigo para que los 3 botones funcionaran de manera independiente.
