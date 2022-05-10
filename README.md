@@ -83,7 +83,7 @@ después hacemos Y y se ve así.
 
 el código está hecho para Arduino Uno, y está incluido en este repositorio aquí: [codigo_arduino/codigo_arduino.ino](codigo_arduino/codigo_arduino.ino).
 
-este código está basado en los ejemplos de Arduino blabla y en los ejemplos de esta clase en los enlaces [bla](blabla) y [bla](blabla).
+este código está basado en los ejemplos de Arduino que se hicieron en la clase 7 y más especificamente en los ejemplos [bla](blabla) y [bla](blabla).
 
 primero creamos las variables blabla para almacenar valores para blabla. la variabla bla es análoga en el rango blabla y la variable blabla es digital y tiene valores posibles 0 y 1.
 
