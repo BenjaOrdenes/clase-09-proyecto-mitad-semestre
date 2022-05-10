@@ -45,19 +45,19 @@ para incluir imágenes que sean visibles en este documento, es igual que un enla
 
 ![texto descripción de la foto](imagenes/00-ejemplo.jpg)
 
-## borrador de muestra
+## Borrador de muestra
 
-a continuación les dejo un breve borrador con ejemplos, que si completan, tendrán todos los puntos de la pauta, suerte!
+A continuación les dejo un breve borrador con ejemplos, que si completan, tendrán todos los puntos de la pauta, suerte!
 
-## acerca de
+## Acerca de
 
-este proyecto de mitad de semestre fue hecho en el día martes 10 de mayo 2022, como parte del curso  aud5i022-2022-1.
+Este proyecto de mitad de semestre fue hecho en el día martes 10 de mayo 2022, como parte del curso  aud5i022-2022-1.
 
 los integrantes son Valentina Chapana, Gabriel López, Benjamín Órdenes.
 
-## lista de materiales
+## Lista de materiales
 
-los materiales son:
+Los materiales son:
 
 * Arduino Uno
 * Protoboard
@@ -67,9 +67,9 @@ los materiales son:
 * Resistencia
 * Parlante
 
-## armado de circuito
+## Armado de circuito
 
-estos son los pasos para armar el circuito.
+Estos son los pasos para armar el circuito.
 
 primero hacemos X y se ve así.
 
