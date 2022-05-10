@@ -83,7 +83,7 @@ después hacemos Y y se ve así.
 
 el código está hecho para Arduino Uno, y está incluido en este repositorio aquí: [codigo_arduino/codigo_arduino.ino](codigo_arduino/codigo_arduino.ino).
 
-este código está basado en los ejemplos de Arduino que se hicieron en la [clase 7](https://github.com/montoyamoraga/aud5i022-2022-1/tree/main/clases/clase-07) y más especificamente en el [ejemplo 1](https://github.com/montoyamoraga/aud5i022-2022-1/tree/main/clases/clase-07/ej_01_melodia) y el [ejemplo 2](https://github.com/montoyamoraga/aud5i022-2022-1/tree/main/clases/clase-07/ej_03_sonido_pulsador_aleatorio)
+este código está basado en los ejemplos de Arduino que se hicieron en la [clase 7](https://github.com/montoyamoraga/aud5i022-2022-1/tree/main/clases/clase-07), más especificamente en el [ejemplo 1](https://github.com/montoyamoraga/aud5i022-2022-1/tree/main/clases/clase-07/ej_01_melodia) y el [ejemplo 2](https://github.com/montoyamoraga/aud5i022-2022-1/tree/main/clases/clase-07/ej_03_sonido_pulsador_aleatorio)
 
 primero creamos las variables blabla para almacenar valores para blabla. la variabla bla es análoga en el rango blabla y la variable blabla es digital y tiene valores posibles 0 y 1.
 
