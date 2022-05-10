@@ -89,6 +89,10 @@ Primero que todo declaramos el archivo adjunto [notas.h](https://github.com/mont
 
 En setup solo usamos "Serial.begin(9600)" y en el loop usamos "digitalRead" en cada botón
 
+```cpp
+void setup()
+```
+
 ## conclusiones
 
 en este proyecto tuvimos los siguientes aprendizajes: 
