@@ -85,11 +85,9 @@ el código está hecho para Arduino Uno, y está incluido en este repositorio aq
 
 este código está basado en los ejemplos de Arduino que se hicieron en la [clase 7](https://github.com/montoyamoraga/aud5i022-2022-1/tree/main/clases/clase-07), más especificamente en el [ejemplo 1](https://github.com/montoyamoraga/aud5i022-2022-1/tree/main/clases/clase-07/ej_01_melodia) y el [ejemplo 2](https://github.com/montoyamoraga/aud5i022-2022-1/tree/main/clases/clase-07/ej_02_sonido_pulsador). Tambien un ejemplo de la [clase 5](https://github.com/montoyamoraga/aud5i022-2022-1/tree/main/clases/clase-05), el [ejemplo 0](https://github.com/montoyamoraga/aud5i022-2022-1/blob/main/clases/clase-05/ej_00_lectura_pulsador/ej_00_lectura_pulsador.ino).
 
-primero creamos las variables blabla para almacenar valores para blabla. la variabla bla es análoga en el rango blabla y la variable blabla es digital y tiene valores posibles 0 y 1.
+Primero que todo declaramos el archivo adjunto [notas.h](https://github.com/montoyamoraga/aud5i022-2022-1/blob/main/clases/clase-07/ej_01_melodia/notas.h) que define la frecuencia de cada nota. Despues de definir eso, declaramos cada melodia con su duración, el multiplicador de duración de las notas en general, el multiplicador de pausa que utiliza el comando "float". Despues se declaro el pin del parlante que es el pin digital 11 y los 3 botones que son el pin 7, 6, 5 respectivamente y por último se declara el estado de cada botón.
 
-primero en setup() hacemos que los pines X e Y sean entradas digitales, el pin Z sea salida digital, y abrimos la comunicación serial.
-
-luego en loop() leemos las entradas y usamos la salida Z para lograr prender una luz LED.
+En setup solo usamos "Serial.begin(9600)" y en el loop usamos "digitalRead" en cada botón
 
 ## conclusiones
 
