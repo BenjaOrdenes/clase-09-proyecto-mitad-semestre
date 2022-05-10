@@ -60,10 +60,12 @@ los integrantes son Valentina Chapana, Gabriel López, Benjamín Órdenes.
 los materiales son:
 
 * Arduino Uno
-* protoboard
-* cables
-* potenciómetro
-* etc
+* Protoboard
+* Cables
+* Potenciómetro
+* Tres botones
+* Resistencia
+* Parlante
 
 ## armado de circuito
 
